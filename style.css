@@ -20,6 +20,10 @@ nav
     font-size: 20px;
     position: fixed;
 }
+a
+{
+    text-decoration: none;
+}
 nav>a
 {
     color:white;
@@ -39,6 +43,7 @@ a.categorias-menu
 }
 .menu-icons
 {
+    margin-right:10px;
     width: 30px;
 }
 #gif
