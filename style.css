@@ -20,6 +20,17 @@ nav
     font-size: 20px;
     position: fixed;
 }
+nav a
+{
+    color:white;
+    text-decoration: none;
+}
+.categorias-menu
+{
+    font-size: 20px;
+    font: normal normal 20px 'Times New roman, Times, serif';
+
+}
 #logo
 {
     width:200px;
