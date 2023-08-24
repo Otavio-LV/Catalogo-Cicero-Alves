@@ -6,13 +6,15 @@
 }
 nav
 {
-    max-width: 100%;
+    min-width: 100%;
+    width: 100%;
     padding: 5px;
     background-color: black;
     display: flex;
     justify-content: space-between;
     align-items: flex-end;
     font-size: 20px;
+    position: fixed;
 }
 #logo
 {
@@ -25,6 +27,8 @@ nav
 }
 #gif
 {
+    border-top: 130px solid black;
+    position: inherit;
     width:100%;
     height: 45px;
 }
@@ -55,6 +59,7 @@ main
 }
 .iten-image
 {
+    box-shadow: 10px 9px 20px 0px #00000038;
     margin: auto;
     width:80%;
 }
