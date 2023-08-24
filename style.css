@@ -43,8 +43,12 @@ a.categorias-menu
 }
 .menu-icons
 {
-    margin-right:10px;
+    margin-right:5;
     width: 30px;
+}
+#icon
+{
+    margin-right: 20px;
 }
 #gif
 {
