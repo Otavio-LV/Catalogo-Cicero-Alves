@@ -39,21 +39,27 @@ main
     margin: auto;
     columns:2;
     background-color: gray;
+    padding: 07.2vw 07vw 8vw 0px
+
 }
 .itens
-{
-
+{margin-left: -4%;
+    text-align: right;
     max-width: 100%;
-    margin: auto;
+}
+.i1-5
+{
+    margin: 0px;
+    text-align:right;
 }
 .iten-image
 {
     margin: auto;
-    width: 80%;
-    margin-left: 15%;
+    width:80%;
 }
 .title
 {
+    margin-top:18px;
     text-align:left;
     font-size: x-large;
     text-indent: 5%;
@@ -66,6 +72,7 @@ main
 }
 .sub-price
 {
+    margin-bottom:18;
     text-indent: 5%;
     text-align:left;
     font-size:medium;
